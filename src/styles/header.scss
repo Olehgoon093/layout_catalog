@@ -70,9 +70,7 @@
   color: #00acdc;
 }
 
-.is-active :hover {
-  color: #00acdc;
-}
+
 
 .is-active::after {
   position: absolute;
@@ -85,6 +83,4 @@
   display: block;
 }
 
-.hover :hover {
-  color: #00acdc;
-}
+
